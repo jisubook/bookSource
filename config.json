@@ -1,0 +1,7 @@
+{
+  to_new_app:0,
+  checking:true,
+  packagename:"",
+  check_version:1,
+  open_ad:true
+}
