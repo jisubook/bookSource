@@ -1,5 +1,5 @@
 {
-  "to_new_app":1,
+  "to_new_app":0,
   "checking":true,
   "packagename":"com.cwl.bookshelf3",
   "check_version":1,
