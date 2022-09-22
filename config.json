@@ -1,7 +1,7 @@
 {
   "to_new_app":1,
   "checking":true,
-  "packagename":"",
+  "packagename":"com.cwl.bookshelf3",
   "check_version":1,
   "open_ad":true
 }
